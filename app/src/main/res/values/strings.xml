@@ -1,8 +1,35 @@
 <resources>
     <string name="app_name">Contacts</string>
+
     <string name="error">Gagal memuat data.. Koneksi Error.</string>
     <string name="try_again">Coba Lagi</string>
+
     <string name="profil">Profil</string>
-    <string name="tutup">Tutup</string>
     <string name="logout">Logout</string>
+    <string name="tutup">Tutup</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="edit">Edit</string>
+
+    <string name="nama_kosong">Nama tidak boleh kosong</string>
+    <string name="ttl_kosong">Tempat,Tanggal lahir tidak boleh kosong</string>
+    <string name="email_kosong">Email tidak boleh kosong</string>
+    <string name="notelp_kosong">No telepon tidak boleh kosong</string>
+    <string name="zodiak_kosong">Zodiak tidak boleh kosong</string>
+
+    <string name="simpan">Simpan</string>
+    <string name="tambahKontak">Tambah</string>
+
+    <string name="nama">Nama</string>
+    <string name="ttl">Tempat Tanggal lahir </string>
+    <string name="email">Email</string>
+    <string name="notelp">No Telepon</string>
+    <string name="zodiak">Zodiak</string>
+
+    <string name="lainnya">Lainnya</string>
+
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Apakah Anda yakin ingin menghapus Contact ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
 </resources>
